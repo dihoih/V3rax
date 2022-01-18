@@ -1,6 +1,5 @@
-部署按钮
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dihoih/herokaka.git)
-反代代码
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dihoih/herokaka.git)部署按钮，
+下面是反代代码
 ```js
 addEventListener(
     "fetch",event => {
