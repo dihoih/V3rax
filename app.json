@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/dihoih/herokaka",
-  "repository": "https://github.com/dihoih/herokaka",
+  "website": "https://github.com/dihoih/V3rax",
+  "repository": "https://github.com/dihoih/V3rax",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
