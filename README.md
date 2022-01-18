@@ -1,5 +1,5 @@
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dihoih/herokaka.git)部署按钮，
-下面是反代代码
+<b>下面是反代代码</b>
 ```js
 addEventListener(
     "fetch",event => {
