@@ -1,4 +1,4 @@
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dihoih/V3rax.git) 部署按钮<p>下面是反代代码:</p>
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dihoih/3rax.git) 部署按钮<p>下面是反代代码:</p>
 ```js
 addEventListener(
     "fetch",event => {
